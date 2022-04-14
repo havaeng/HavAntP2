@@ -1,0 +1,7 @@
+För att simulera tre olika klienter:
+1. Kör MainP2.
+2. Kör MessageClient:s main-metod.
+3. 6 fönster visas, men du kan behöva flytta på viewer 5 för att kunna se viewer 6.
+4. Efter animationerna är klara och har stannat, kör MessageProducerClient:s main-metod.
+   MainP2 måste vara igång för att kunna köra MessageProducerClient!
+5. Klart!
